@@ -6,7 +6,7 @@
 
 ## About
 
-This is a simeple Django app that lets the user set the background color of the page by picking a rgb color with the form provided. It is created to fulfill a project requirement for the Columbia University's Justice Through Code, Spring 2022 program. Participants of JTC undergo an intensive of Python programming and app development using the Django framework. This is the second of the student projects that will have been completed before the participants move on to the career development phase of the program.
+This is a simeple Django app that lets the user set the background color of the page by picking a rgb color with the form provided. It is created to fulfill a project requirement for the Columbia University's Justice Through Code, Spring 2022 program. Participants of JTC undergo an intensive of Python programming and app development using the Django framework. This is the second of the Django projects that will have been completed before the final project and before participants move on to the career development phase of the program.
 
 ### Author
 
